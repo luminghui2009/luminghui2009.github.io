@@ -6,14 +6,25 @@
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
+    <title><![CDATA[hello hexo]]></title>
+    <url>%2F2018%2F05%2F19%2Fhello-hexo%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[css常用易错盘点]]></title>
     <url>%2F2018%2F05%2F19%2FCSS%E4%B8%80%E4%BA%9B%E5%B1%9E%E6%80%A7%2F</url>
     <content type="text"><![CDATA[CSS一些属性行间距：line-height normal，默认合理的行间距 number，设置数字 length，设置固定的行间距 %，基于当前字体的尺寸的百分比行间距 inherit，从父元素继承line-height的属性值 line-height的属性值为百分比和数字的区别：当line-height的属性值为百分比或者em(如1.5em)时，行间距为声明处font-size的倍数，子元素继承父元素的行高，而line-height的属性值为数字，子元素会继承这个数字，根据自身的font-size计算line-height值 竖向对齐：vertical-align]]></content>
       <categories>
-        <category>css</category>
+        <category>Css</category>
       </categories>
       <tags>
-        <tag>css</tag>
+        <tag>Css</tag>
       </tags>
   </entry>
 </search>
